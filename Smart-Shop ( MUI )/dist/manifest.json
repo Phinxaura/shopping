@@ -1,0 +1,16 @@
+{
+    "name": "My Shopping Website Trendy Fits",
+    "short_name": "Trendy Fits",
+    "description": "A Progressive shop App built with Vite!",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "vite.svg", 
+        "sizes": "512x512",
+        "type": "image/svg+xml"
+      }
+    ]
+  }
